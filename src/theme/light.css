@@ -1,0 +1,4 @@
+div[data-theme='light'] {
+  --primary-color: var(--colors-white);
+  --secondary-color: var(--colors-blue);
+}

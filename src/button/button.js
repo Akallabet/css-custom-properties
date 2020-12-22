@@ -1,4 +1,6 @@
-import { node, string } from 'prop-types'
+import { node } from 'prop-types'
+
+import './button.css'
 
 export const Button = ({ children }) => <button>{children}</button>
 
